@@ -39,7 +39,7 @@ Wenn das Benutzeralter als Ganzzahl kleiner als 0 ist oder das Benutzeralter grÃ
 Ansonsten:
     Definiere die weibliche Variable Zutrittserlaubnis als den Wahrheitswert Unwahr.
     Rufe die Prozedur Alterstest ab:
-        Gebe das Benutzealter als das Argument Alter an.
+        Gebe das Benutzeralter als das Argument Alter an.
         Nenne die Antwort Zutrittserlaubnis.
     Wenn die Zutrittserlaubnis Wahr ist:
         Sage "Hier is' wat lÃ¶s!".
