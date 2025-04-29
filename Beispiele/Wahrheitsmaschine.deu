@@ -11,4 +11,5 @@ Ansonsten:
     Definiere die Variable Fehlernachricht als "Ich sagte 1 oder 0, nicht {Eingabe}!".
     Ersetze "{Eingabe}" mit Wahrheit in Fehlernachricht.
     Schreie Fehlernachricht.
+    Beende die Fehlerzeile.
 Hör sofort auf!
