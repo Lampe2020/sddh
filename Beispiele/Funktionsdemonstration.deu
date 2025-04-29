@@ -1,0 +1,50 @@
+Sprich Deutsch Du Halunke!
+Definiere die Prozedur grüße:
+    Definiere das männliche Argument Name.
+    Gehe wie folgt vor:
+        Definiere die Variable Gruß als die Zeichenkette "Hallo {Name}!".
+        Ersetze "{Name}" mit dem Namen in Gruß.
+        Sage Gruß.
+        Gebe nichts zurück.
+Definiere die Prozedur Alterstest:
+    Definiere das sachliche Argument Alter.
+    Definiere das sachliche Argument Mindestalter als die Zahl 18.
+    Gehe wie folgt vor:
+        Wenn das Alter kleiner als das Mindestalter ist:
+            Schreie "Du musst mindestens 18 sein!".
+            Beende die Fehlerzeile.
+            Gebe Unwahr zurück.
+        Ansonsten wenn das Alter gleichwertig zu dem Mindestalter ist:
+            Sage "Puh, gerade so alt genug! Willkommen!".
+            Beende die Ausgabezeile.
+            Gebe Wahr zurück.
+        Ansonsten:
+            Sage "Willkommen!"
+            Beende die Ausgabezeile.
+            Gebe Wahr zurück.
+
+Definiere die männliche Variable Benutzername.
+Frage "Wie heißt Du? " und nenne die Antwort Benutzername.
+Wenn der Benutzername ungleich "" ist:
+    Rufe die Prozedur grüße ab:
+        Gebe den Benutzernamen als das Argument Name an.
+Ansonsten:
+    Hör sofort auf!
+Definiere die sachliche Variable Benutzeralter.
+Frage "Wie alt bist Du (bitte nicht lügen!)? " und nenne die Antwort Benutzeralter.
+Wenn das Benutzeralter als Ganzzahl kleiner als 0 ist oder das Benutzeralter größer als 150 ist:
+    Schreie "Das kann nicht sein!".
+    Beende die Fehlerzeile.
+    Hör sofort auf!
+Ansonsten:
+    Definiere die weibliche Variable Zutrittserlaubnis als den Wahrheitswert Unwahr.
+    Rufe die Prozedur Alterstest ab:
+        Gebe das Benutzealter als das Argument Alter an.
+        Nenne die Antwort Zutrittserlaubnis.
+    Wenn die Zutrittserlaubnis Wahr ist:
+        Sage "Hier is' wat lös!".
+        Beende die Ausgabezeile.
+    Ansonsten:
+        Schreie "Lalülala! Minderjähriger entdeckt!".
+        Beende die Fehlerzeile.
+Hör sofort auf!
