@@ -1,0 +1,14 @@
+Sprich Deutsch Du Halunke!
+Definiere die Variable Wahrheit.
+Frage "Gib 1 oder 0 ein: " und nenne die Antwort Wahrheit.
+Während Wahrheit als Ganzzahl als Wahrheitswert gleich Wahr ist:
+    Sage "1".
+    Beende die Ausgabezeile.
+Wenn Wahrheit als Ganzzahl als Wahrheitswert gleich Unwahr ist:
+    Sage "0".
+    Beende die Ausgabezeile.
+Ansonsten:
+    Definiere die Variable Fehlernachricht als "Ich sagte 1 oder 0, nicht {Eingabe}!".
+    Ersetze "{Eingabe}" mit Wahrheit in Fehlernachricht.
+    Schreie Fehlernachricht.
+Hör sofort auf!
