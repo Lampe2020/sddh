@@ -1,10 +1,15 @@
 Sprich Deutsch Du Halunke!
 Definiere die Variable x als 0.
 Während x kleiner als 100 ist:
+    Definiere die Variable Zahl_ausgeben als den Wahrheitswert Wahr.
     Wenn x modulo 3 gleichwertig zu 0 ist:
         Sage "Fitzel".
+        Gebe Zahl_ausgeben den Wert Falsch.
     Wenn x modulo 5 gleichwertig zu 0 ist:
         Sage "Brumm".
+        Gebe Zahl_ausgeben den Wert Falsch.
+    Wenn Zahl_ausgeben Wahr ist:
+         Sage x.
     Beende die Ausgabezeile.
     Erhöhe x um 1.
 Hör sofort auf!
