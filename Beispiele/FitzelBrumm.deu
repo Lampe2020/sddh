@@ -1,9 +1,9 @@
 Sprich Deutsch Du Halunke!
 Definiere die Variable x als 0.
 Während x kleiner als 100 ist:
-    Wenn x modulo 3 gleich 0 ist:
+    Wenn x modulo 3 gleichwertig zu 0 ist:
         Sage "Fitzel".
-    Wenn x modulo 5 gleich 0 ist:
+    Wenn x modulo 5 gleichwertig zu 0 ist:
         Sage "Brumm".
     Beende die Ausgabezeile.
     Erhöhe x um 1.
