@@ -1,2 +1,5 @@
-# sddh
-Sprich Deutsch Du Halunke!
+# Sprich Deutsch Du Halunke!
+→ Eine deutsche Programmiersprache.
+
+## Dokumentation
+Siehe [DEFINITION.md](./DEFINITION.md)
