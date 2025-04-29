@@ -1,0 +1,12 @@
+Sprich Deutsch Du Halunke!
+(Zeilen die komplett (Leerzeichen davor werden ignoriert) in Klammern stehen, werden als Kommentare gewertet. Klammern innerhalb der Zeile müssen nicht geschlossen werden, die einzige Anforderung ist dass das erste Nichtleerraumzeichen eine Klammer auf und das letzte Zeichen eine Klammer zu ist)
+Definiere die weibliche Variable zweiundvierzig als die Ganzzahl 42.
+(Python: `zweiundvierzig:int = 42`)
+Definiere die weibliche Variable Pi als die Kommazahl 3,14159.
+(Python: `Pi:float = 3.14159`)
+Definiere die weibliche Variable Gruß als die Zeichenkette "Hallo Welt!".
+(Python: `Gruß:str = "Hallo Welt!"`)
+Definiere die weibliche Variable Wahrheit als den Wahrheitswert Wahr.
+(Python: `Wahrheit:bool = True`)
+(Alle Beispiele oben müssen mit einem weiblichen Artikel aufgerufen werden. Fiele die Geschlechtsdefinition weg, wäre das nicht nötig. "der Brezel", "die Brezel" und "das Brezel" sowie einfach nur "Brezel" sind vier separate Variabeln die, obwohl sie alle den gleichen Namen tragen, nicht kollidieren können)
+Höre sofort auf!
