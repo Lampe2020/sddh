@@ -29,13 +29,13 @@ Wenn der Benutzername ungleich "" ist:
     Rufe die Prozedur grüße ab:
         Gebe den Benutzernamen als das Argument Name an.
 Ansonsten:
-    Hör sofort auf!
+    Höre sofort auf!
 Definiere die sachliche Variable Benutzeralter.
 Frage "Wie alt bist Du (bitte nicht lügen!)? " und nenne die Antwort Benutzeralter.
 Wenn das Benutzeralter als Ganzzahl kleiner als 0 ist oder das Benutzeralter größer als 150 ist:
     Schreie "Das kann nicht sein!".
     Beende die Fehlerzeile.
-    Hör sofort auf!
+    Höre sofort auf!
 Ansonsten:
     Definiere die weibliche Variable Zutrittserlaubnis als den Wahrheitswert Unwahr.
     Rufe die Prozedur Alterstest ab:
@@ -47,4 +47,4 @@ Ansonsten:
     Ansonsten:
         Schreie "Lalülala! Minderjähriger entdeckt!".
         Beende die Fehlerzeile.
-Hör sofort auf!
+Höre sofort auf!
