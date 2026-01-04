@@ -2,9 +2,9 @@ Sprich Deutsch Du Halunke!
 Definiere die Prozedur grüße:
     Definiere das männliche Argument Name.
     Gehe wie folgt vor:
-        Definiere die Variable Gruß als die Zeichenkette "Hallo {Name}!".
+        Definiere die männliche Variable Gruß als die Zeichenkette "Hallo {Name}!".
         Ersetze "{Name}" mit dem Namen in Gruß.
-        Sage Gruß.
+        Sage den Gruß.
         Gebe nichts zurück.
 Definiere die Prozedur Alterstest:
     Definiere das sachliche Argument Alter.
@@ -19,19 +19,19 @@ Definiere die Prozedur Alterstest:
             Beende die Ausgabezeile.
             Gebe Wahr zurück.
         Ansonsten:
-            Sage "Willkommen!"
+            Sage "Willkommen!".
             Beende die Ausgabezeile.
             Gebe Wahr zurück.
 
 Definiere die männliche Variable Benutzername.
-Frage "Wie heißt Du? " und nenne die Antwort Benutzername.
+Frage "Wie heißt Du? " und nenne die Antwort den Benutzernamen.
 Wenn der Benutzername ungleich "" ist:
     Rufe die Prozedur grüße ab:
         Gebe den Benutzernamen als das Argument Name an.
 Ansonsten:
     Höre sofort auf!
 Definiere die sachliche Variable Benutzeralter.
-Frage "Wie alt bist Du (bitte nicht lügen!)? " und nenne die Antwort Benutzeralter.
+Frage "Wie alt bist Du (bitte nicht lügen!)? " und nenne die Antwort das Benutzeralter.
 Wenn das Benutzeralter als Ganzzahl kleiner als 0 ist oder das Benutzeralter größer als 150 ist:
     Schreie "Das kann nicht sein!".
     Beende die Fehlerzeile.
@@ -40,7 +40,7 @@ Ansonsten:
     Definiere die weibliche Variable Zutrittserlaubnis als den Wahrheitswert Unwahr.
     Rufe die Prozedur Alterstest ab:
         Gebe das Benutzeralter als das Argument Alter an.
-        Nenne die Antwort Zutrittserlaubnis.
+        Nenne die Antwort die Zutrittserlaubnis.
     Wenn die Zutrittserlaubnis Wahr ist:
         Sage "Hier is' wat lös!".
         Beende die Ausgabezeile.
